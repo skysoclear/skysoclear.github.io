@@ -77,3 +77,9 @@ a:hover {
 .img-responsive {
   margin-bottom: 50px;
 }
+
+.logo {
+  width:200px;
+  height:auto;
+  margin-top: 50px;
+}
